@@ -1,0 +1,126 @@
+{
+	"pets": [
+		{
+			"nome": "Jolie",
+			"tipo": "cachorro",
+			"idade": 4,
+			"raça": "Buldogue Francês",
+			"peso": 4,
+			"tutor": "Annie",
+			"contato": "(87) 97899-6545",
+			"vacinado": true,
+			"servicos": [
+				"banho",
+				"cortar as unhas"
+			]
+		},
+		{
+			"nome": "Animago",
+			"tipo": "cachorro",
+			"idade": 5,
+			"raça": "Vira-lata",
+			"peso": 4,
+			"tutor": "Sirius",
+			"contato": "(81) 98899-6555",
+			"vacinado": true,
+			"servicos": [
+				"banho",
+				"tosa"
+			]
+		},
+		{
+			"nome": "Bichento",
+			"tipo": "gato",
+			"idade": 3,
+			"raça": "Persa",
+			"peso": 3,
+			"tutor": "Hermione",
+			"contato": "(11) 98299-2545",
+			"vacinado": true,
+			"servicos": [
+				"banho",
+				"cortar as unhas"
+			]
+		},
+		{
+			"nome": "Fred",
+			"tipo": "cachorro",
+			"idade": 2,
+			"raça": "Poodle",
+			"peso": 3,
+			"tutor": "Júnior",
+			"contato": "11 9887-0987",
+			"vacinado": true,
+			"servicos": [
+				"banho",
+				"tosa",
+				"aparar unhas"
+			]
+		},
+		{
+			"nome": "Cristal",
+			"tipo": "gato",
+			"idade": 5,
+			"raça": "Selvagem",
+			"peso": 3,
+			"tutor": "Zé",
+			"contato": "21 9987-0977",
+			"vacinado": true,
+			"servicos": [
+				"banho"
+			]
+		},
+		{
+			"nome": "Iggy",
+			"tipo": "cachorro",
+			"idade": 5,
+			"raça": "Boxer",
+			"peso": 4,
+			"tutor": "Pop",
+			"contato": "(71) 98899-6555",
+			"vacinado": true,
+			"servicos": [
+				"banho"
+			]
+		},
+		{
+			"nome": "Sidney",
+			"tipo": "gato",
+			"idade": 5,
+			"raça": "Persa",
+			"peso": 4,
+			"tutor": "Pop",
+			"contato": "(71) 98899-6555",
+			"vacinado": true,
+			"servicos": [
+				"banho"
+			]
+		},
+		{
+			"nome": "Amoedo",
+			"tipo": "cachorro",
+			"idade": 5,
+			"raça": "Akita",
+			"peso": 4,
+			"tutor": "Vlad",
+			"contato": "(51) 98899-6555",
+			"vacinado": true,
+			"servicos": [
+				"banho"
+			]
+		},
+		{
+			"nome": "Lion",
+			"tipo": "cachorro",
+			"idade": 5,
+			"raça": "Pitbull",
+			"peso": 4,
+			"tutor": "Doug",
+			"contato": "(61) 98899-6555",
+			"vacinado": false,
+			"servicos": [
+				"banho"
+			]
+		}
+	]
+}
